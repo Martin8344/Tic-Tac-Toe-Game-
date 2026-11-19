@@ -1,9 +1,10 @@
 # ❌⭕ Tic Tac Toe Game
 
+![Game Screenshot](screenshot.png.jpeg)
+
 El3ab Tic Tac Toe ma3 sa7bak, online men ay mobile aw PC!
 
 ### 🎮 Live Demo
-**E3mel Click hena 3ashan tel3ab:**
 👉 https://martin8344.github.io/Tic-Tac-Toe-Game/
 
 ### ✨ Features
